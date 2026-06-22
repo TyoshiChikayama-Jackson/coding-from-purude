@@ -1,0 +1,131 @@
+body{
+    background-color: rgb(247, 242, 235);
+}
+.section{
+    position: center;
+    background-color: rgba(203, 203, 191, 0.635);
+    border-radius: 10px;
+    border:black,solid,1px;
+    max-width: 900px;
+    padding-left:15px;
+    padding-right:15px;
+    margin:auto;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+.get-to-know-me{
+    color:rgb(31, 90, 141);
+    font-size: 33px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.main-heading{
+    font-size: 48px;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: #846f11;
+    text-align: center;
+}
+.shakira-img{
+    max-width: 300px;
+    display:block;
+    margin:auto;
+    width: 50%; 
+}
+h2{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.headshot{
+    max-width: 150px;
+    display: block;
+    margin:auto; 
+    width: 50%;
+    position: inherit;
+    bottom:550px;
+    left: 950px;
+}
+.name{
+    text-align: center;
+}
+.biography{
+    width:60%;
+    padding-left: 20%;
+    text-align: center;
+}
+.top-three{
+    padding-left: 40%;
+}
+.mg-list{
+    padding-left:45%;
+}
+.musical-artist{
+    width:60%;
+    padding-left: 20%;
+    text-align: center;
+}
+.tv-show{
+    width:60%;
+    padding-left: 20%;
+    text-align: center;
+}
+.resources{
+    position: center;
+    background-color: rgba(203, 203, 191, 0.635);
+    border-radius: 10px;
+    border:black,solid,1px;
+    max-width: 900px;
+    padding-left:15px;
+    padding-right:15px;
+    margin:auto;
+    width: 50%;
+    height: 200px;
+    padding-top: 10px;
+    margin-top: 50px;
+}
+.resources-group{
+    background-color: white;
+    border:black,solid,1px;
+    padding-left: 40px;
+    padding-top: 35px;
+    padding-bottom: 30px;
+    width:85%;
+    position: relative;
+    left: 40px;
+}
+.dbs-link{
+    padding-right: 10px;
+}
+.dbs-link-two{
+    padding-right: 20px;
+    padding-left: 50px;
+}
+.dbs-link-three{
+    top: 20px;
+    padding-left:50px; 
+}
+.contact-info{
+    position: center;
+    background-color: rgba(203, 203, 191, 0.635);
+    border-radius: 10px;
+    border:black,solid,1px;
+    max-width: 900px;
+    padding-left:15px;
+    padding-right:15px;
+    margin:auto;
+    width: 50%;
+    height: 200px;
+    padding-top: 10px;
+    margin-top: 50px;
+}
+.contact-items{
+    background-color: white;
+    border:black,solid,1px;
+    padding-left: 40px;
+    padding-top: 35px;
+    padding-bottom: 30px;
+    width:90%;
+}
